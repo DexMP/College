@@ -10,10 +10,11 @@
 
 </div>
 
-# VK Mini Apps: @vkontakte/create-vk-mini-app
+# Developer: <a href="https://vk.com/dexmp">DexMP</a>
 
-## How to install
+# App  -> <a href="https://vk.com/app7177571">Weather</a>
 
+## Help for create ->
 ### Create VK Mini App with gh-pages deploy
 
 `npx @vkontakte/create-vk-mini-app <app-directory-name>`
@@ -23,12 +24,6 @@
 Firstly, you have to create Zeit account and connect it with your GitHub profile — https://zeit.co/
 
 `npx @vkontakte/create-vk-mini-app <app-directory-name> --zeit`
-
-### Create VK Mini App with Surge deploy
-
-Firstly, you have to create Surge account and Surge-domain — https://surge.sh/
-
-`npx @vkontakte/create-vk-mini-app <app-directory-name> --surge <surge-domain>`
 
 ## How to start work with app
 
