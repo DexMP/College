@@ -12,8 +12,11 @@
 
 # Developer: <a href="https://vk.com/dexmp">DexMP</a>
 
-## How to install
+## Usage
+<a href="">Vk Mini Apps</a>
 
+
+## Help for create ->
 ### Create VK Mini App with gh-pages deploy
 
 `npx @vkontakte/create-vk-mini-app <app-directory-name>`
