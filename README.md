@@ -12,9 +12,7 @@
 
 # Developer: <a href="https://vk.com/dexmp">DexMP</a>
 
-## Usage
-<a href="">Vk Mini Apps</a>
-
+# App  -> <a href="">Weather</a>
 
 ## Help for create ->
 ### Create VK Mini App with gh-pages deploy
