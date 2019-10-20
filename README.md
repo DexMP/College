@@ -10,7 +10,7 @@
 
 </div>
 
-# VK Mini Apps: @vkontakte/create-vk-mini-app
+# Developer: <a href="https://vk.com/dexmp">DexMP</a>
 
 ## How to install
 
