@@ -8,11 +8,13 @@ import Cell from '@vkontakte/vkui/dist/components/Cell/Cell';
 import Div from '@vkontakte/vkui/dist/components/Div/Div';
 import Avatar from '@vkontakte/vkui/dist/components/Avatar/Avatar';
 
+import './Home.css';
+
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
-		<PanelHeader>Example</PanelHeader>
+		<PanelHeader>Электростальский колледж</PanelHeader>
 		{fetchedUser &&
-		<Group title="User Data Fetched with VK Connect">
+		<Group title="Добро пожаловать!">
 			<Cell
 				before={fetchedUser.photo_200 ? <Avatar src={fetchedUser.photo_200}/> : null}
 				description={fetchedUser.city && fetchedUser.city.title ? fetchedUser.city.title : ''}
@@ -21,10 +23,19 @@ const Home = ({ id, go, fetchedUser }) => (
 			</Cell>
 		</Group>}
 
-		<Group title="Navigation Example">
+		<Group title="Меню:">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
 					Show me the Persik, please
+				</Button>
+			</Div>
+		</Group>
+
+		<Group title="Новости:">
+			<Div className="news-item">
+				<p onClick={go}  data-to="persik">МОЛОДЕЖНЫЙ ЛАГЕРЬ</p>
+				<Button size="m" level="1" onClick={go} data-to="persik">
+					Подробнее
 				</Button>
 			</Div>
 		</Group>
