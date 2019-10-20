@@ -25,12 +25,6 @@ Firstly, you have to create Zeit account and connect it with your GitHub profile
 
 `npx @vkontakte/create-vk-mini-app <app-directory-name> --zeit`
 
-### Create VK Mini App with Surge deploy
-
-Firstly, you have to create Surge account and Surge-domain — https://surge.sh/
-
-`npx @vkontakte/create-vk-mini-app <app-directory-name> --surge <surge-domain>`
-
 ## How to start work with app
 
 Go to created folder and run:
