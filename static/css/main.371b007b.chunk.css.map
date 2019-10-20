@@ -1,0 +1,1 @@
+{"version":3,"sources":["Home.css"],"names":[],"mappings":"AAAA,WACE,uBAAwB,CACxB,YAAa,CACb,gBACF,CAEA,kBACE,gBACF","file":"main.371b007b.chunk.css","sourcesContent":[".news-item{\r\n  border: 1px solid silver;\r\n  padding: 10px;\r\n  margin: 10px auto;\r\n}\r\n\r\n.news-item Button{\r\n  text-align: right;\r\n}\r\n"]}
