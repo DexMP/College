@@ -12,7 +12,7 @@
 
 # Developer: <a href="https://vk.com/dexmp">DexMP</a>
 
-# App  -> <a href="https://vk.com/app7177571">Weather</a>
+# App  -> <a href="https://vk.com/app7177571">College</a>
 
 ## Help for create ->
 ### Create VK Mini App with gh-pages deploy
