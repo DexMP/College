@@ -1,0 +1,2 @@
+﻿git push origin master -- Загрузить коммит в мастер
+git pull origin master --Загрузить себе последнюю версию
